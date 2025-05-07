@@ -3,6 +3,7 @@
 This document outlines how to overclock a 1920×1080@75Hz monitor to 80Hz on a Linux system using EDID injection via the initramfs and systemd-boot. Tested successfully on **Arch** with both **Sway** and **KDE Plasma 6** under **Wayland**.
 
 _Made this so I don't forget again and waste time on this next time..._
+
 ---
 
 
